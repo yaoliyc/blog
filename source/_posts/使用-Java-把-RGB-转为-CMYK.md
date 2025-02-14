@@ -2,6 +2,9 @@
 title: 使用 Java 把 RGB 转为 CMYK
 date: 2025-02-13 15:51:20
 tags:
+- java
+- CMYK
+- RGB
 ---
 
 # 使用 Java 把 RGB 转为 CMYK | 酸辣土豆丝 iCS

@@ -2,6 +2,8 @@
 title: 用java imageio调整图片DPI，例如从96调整为300
 date: 2025-02-13 16:01:03
 tags:
+- java
+- dpi
 ---
 
 # 用java imageio调整图片DPI，例如从96调整为300 - 古语云 - 博客园
