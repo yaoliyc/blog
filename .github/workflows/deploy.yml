@@ -33,7 +33,7 @@ jobs:
       uses: yaoliyc/hexo-action@master
       with:
         deploy_key: ${{ secrets.HEXO_DEPLOY_KEY }}
-        user_name: yaoliyc
+        user_name: yaoli
         user_email: yaoliyc@outlook.com
         commit_msg: ${{ github.event.head_commit.message }}ion)
     - name: Get the output
