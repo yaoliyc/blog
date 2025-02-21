@@ -6,7 +6,7 @@ tags:
 - Github Actions
 ---
 
-# 使用GitHub Actions实现Hexo博客自动发布 - 测试开发小记 - 博客园
+# 使用GitHub Actions实现Hexo博客自动发布
 
 > ## Excerpt
 > 我在使用jenkins实现hexo博客自动发布中介绍了可以使用jenkins实现博客自动发布，其实还有一种更简单的方法，就是GitHub提供的持续集成服务：GitHub Actions。下面就来介绍一下如何使用GitHub Actions来实现将hexo博客自动编译及发布到GitHub Pages和
