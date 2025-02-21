@@ -163,30 +163,30 @@ jobs:
     - name: Get the output
       run: |
         echo "${{ steps.deploy.outputs.notify }}"
-  sync:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Sync to Gitee
-        uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
-        with:
-          # 源仓库
-          source-repo: git@github.com:hiyongz/hiyongz.github.io.git
-          # 目标仓库
-          destination-repo: git@gitee.com:hiyong/hiyong.git
-  reload-pages:
-    needs: sync
-    runs-on: ubuntu-latest
-    steps:
-      - name: Build Gitee Pages
-        uses: yanglbme/gitee-pages-action@main
-        with:
-          gitee-username: hiyong
-          gitee-password: ${{ secrets.GITEE_PASSWORD }}
-          gitee-repo: hiyong/hiyong
-          branch: master
+#   sync:
+#     needs: build
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Sync to Gitee
+#         uses: wearerequired/git-mirror-action@master
+#         env:
+#           SSH_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_KEY }}
+#         with:
+#           # 源仓库
+#           source-repo: git@github.com:hiyongz/hiyongz.github.io.git
+#           # 目标仓库
+#           destination-repo: git@gitee.com:hiyong/hiyong.git
+#   reload-pages:
+#     needs: sync
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Build Gitee Pages
+#         uses: yanglbme/gitee-pages-action@main
+#         with:
+#           gitee-username: hiyong
+#           gitee-password: ${{ secrets.GITEE_PASSWORD }}
+#           gitee-repo: hiyong/hiyong
+#           branch: master
 
 ```
 
