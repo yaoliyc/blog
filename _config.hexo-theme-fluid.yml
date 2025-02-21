@@ -795,7 +795,7 @@ gitalk:
   clientID: Ov23ligaxaA41XQcF7bb
   clientSecret: 1527955051adbb60567eaffd7fdb3352562a65a1
   repo: blog_comments
-  owner:  yaoli
+  owner:  yaoliyc
   admin: ['yaoli']
   language: zh-CN
   labels: ['Gitalk']
