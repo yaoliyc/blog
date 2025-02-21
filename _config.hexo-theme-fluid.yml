@@ -794,7 +794,7 @@ disqus:
 gitalk:
   clientID: Ov23ligaxaA41XQcF7bb
   clientSecret: 1527955051adbb60567eaffd7fdb3352562a65a1
-  repo: blog_comments
+  repo: yaoliyc.github.io
   owner:  yaoliyc
   admin: ['yaoliyc']
   language: zh-CN
