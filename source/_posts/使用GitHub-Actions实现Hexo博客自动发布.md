@@ -84,7 +84,7 @@ ssh-keygen -f hexo-deploy-key -t rsa -C "username@example.com"
 
 ## Gitee Token配置
 
-Gitee Token配置和Github类似。
+~~Gitee Token配置和Github类似。~~gitee pages暂停服务了
 
 秘钥不需要重新生成，直接使用前面生成的秘钥。
 
