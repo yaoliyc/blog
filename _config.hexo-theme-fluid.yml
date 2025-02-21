@@ -796,7 +796,7 @@ gitalk:
   clientSecret: 1527955051adbb60567eaffd7fdb3352562a65a1
   repo: blog_comments
   owner:  yaoliyc
-  admin: ['yaoli']
+  admin: ['yaoliyc']
   language: zh-CN
   labels: ['Gitalk']
   perPage: 10
