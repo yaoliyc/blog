@@ -30,7 +30,7 @@ jobs:
     # Deploy hexo blog website.
     - name: Deploy
       id: deploy
-      uses: sma11black/hexo-action@v1.0.3
+      uses: QyInvoLing/hexo-action@1.0.6
       with:
         deploy_key: ${{ secrets.HEXO_DEPLOY_KEY }}
         user_name: yaoliyc
