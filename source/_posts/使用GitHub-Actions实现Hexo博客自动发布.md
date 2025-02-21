@@ -154,7 +154,7 @@ jobs:
     # Deploy hexo blog website.
     - name: Deploy
       id: deploy
-      uses: sma11black/hexo-action@v1.0.3
+      uses: yaoliyc/hexo-action@master
       with:
         deploy_key: ${{ secrets.HEXO_DEPLOY_KEY }}
         user_name: github用户名
