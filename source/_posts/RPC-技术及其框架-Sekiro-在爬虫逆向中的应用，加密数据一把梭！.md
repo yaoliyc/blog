@@ -1,6 +1,8 @@
 ---
 title: RPC 技术及其框架 Sekiro 在爬虫逆向中的应用，加密数据一把梭！
 date: 2025-02-21 10:46:08
+categories:
+- 爬虫
 tags:
 - RPC
 - 爬虫

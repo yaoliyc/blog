@@ -2,6 +2,8 @@
 layout: psot
 title: JS 逆向之 Hook，吃着火锅唱着歌，突然就被麻匪劫了！
 date: 2025-02-14 10:01:33
+categories:
+- 爬虫
 tags:
 - 爬虫
 - hook

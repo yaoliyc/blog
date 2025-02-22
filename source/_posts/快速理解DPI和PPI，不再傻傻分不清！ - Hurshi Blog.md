@@ -1,6 +1,8 @@
 ---
 title: 快速理解DPI和PPI，不再傻傻分不清！
 date: 2025-02-13 15:37:32
+categories:
+- java
 tags:
 - DPI
 - PPI
