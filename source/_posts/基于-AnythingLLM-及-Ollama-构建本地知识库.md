@@ -1,6 +1,8 @@
 ---
 title: 基于 AnythingLLM 及 Ollama 构建本地知识库
 date: 2025-02-22 09:12:41
+categories:
+- deepseek
 tags:
 - deepseek
 - Ollama

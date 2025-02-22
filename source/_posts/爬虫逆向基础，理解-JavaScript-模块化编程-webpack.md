@@ -1,6 +1,8 @@
 ---
 title: 爬虫逆向基础，理解 JavaScript 模块化编程 webpack
 date: 2025-02-14 10:24:56
+categories:
+- 爬虫
 tags:
 - 爬虫
 - webpack
