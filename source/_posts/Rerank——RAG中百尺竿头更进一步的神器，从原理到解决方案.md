@@ -1,6 +1,6 @@
 ---
 title: Rerank——RAG中百尺竿头更进一步的神器，从原理到解决方案
-date: 2025-02-24T16:13:45 (UTC +08:00)
+date: 2025-02-24 16:13:45
 tags: [RAG,Rerank]
 categories: [RAG]
 ---
