@@ -1,7 +1,7 @@
 ---
 title: Miniconda的安装和使用
 date: 2025-03-02 16:52:35
-tags: [conda,Python]
+tags: [conda]
 categories: [conda,Python]
 ---
 
