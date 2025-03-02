@@ -5,7 +5,7 @@ tags: [conda,Python]
 categories: [conda,Python]
 ---
 
-# Miniconda的安装和使用 - 季俊豪 - 博客园
+# Miniconda的安装和使用
 
 > ## Excerpt
 > 参考文献 Miniconda Anaconda 简介 Miniconda和Anaconda都是Python环境管理工具，可以用于创建、管理和部署Python环境及其依赖的软件包。它们的主要区别在于其默认安装的软件包和所需空间的大小。 Miniconda 是一个轻量级的Python环境管理工具，仅包括
