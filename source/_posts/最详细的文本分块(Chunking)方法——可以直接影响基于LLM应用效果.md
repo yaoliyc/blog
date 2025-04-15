@@ -1,6 +1,6 @@
 ---
 title: 最详细的文本分块(Chunking)方法——可以直接影响基于LLM应用效果
-date: 2025-02-24T10:38:52 (UTC +08:00)
+date: 2025-02-24 10:38:52
 tags: [RAG,Chunking]
 categories: [RAG]
 ---
